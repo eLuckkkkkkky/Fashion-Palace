@@ -1,102 +1,90 @@
-# Privacy Policy Overview
-We appreciate your attention to the Privacy Policy of Fashion Palace's website and mobile application (collectively, the "Platform"), operated by Jesd Nhvshs. This policy details our collection and handling of Personal Information through the Platform and offline interactions. It is integral to our Terms and Conditions, shaping your Platform use and our data practices. Please review both documents thoroughly, paying close attention to specific Terms and Conditions sections, including social media and legal aspects.Policy amendments will be posted with revision dates. Objections to policy changes can be directed to the contact section. Continued use of Fashion Palace's services implies acceptance of the current Privacy Policy.We prioritize your privacy in our interactions, ensuring a secure environment. Information shared with us remains exclusive to our use, aimed at enhancing your experience while respecting your privacy choices.Information Collection and UsageWe collect personal data based on your interaction with our site. Online transactions and communications are recorded differently from mere site visits. Product purchases or membership applications necessitate certain personal details for account management and service provision. Navigation data, gathered anonymously, includes browser type, visit timestamps, and accessed pages, aiding in site optimization.Cookies, small data files, help in recognizing your browser during subsequent visits, enabling personalized experiences. These can be managed via your browser settings.Children's PrivacyWe do not solicit nor collect data from those under 13. Minors between 13 and 17 should have guardian consent to use the Platform.Data SharingOperational needs may necessitate sharing your data with third parties, such as payment processors or marketing agencies, under strict confidentiality agreements.Security: Fashion Palace employs robust safeguards to protect personal data, acknowledging the internet's inherent risks. Data transmission is subject to your discretion and risk.Data Access and CorrectionsMembers can access and update their information through the "My Account" section.Contact UsFor privacy inquiries or data management requests, please reach out to haocheng969@gmail.com.
+# Overview of Privacy Policy
+
+Fashion Palace, through its website and mobile app (together referred to as the "Platform"), operated by Anqing Wenwen Network Technology Co., Ltd, is committed to protecting your privacy. This policy outlines how we manage Personal Information both on the Platform and in offline interactions. It forms a fundamental part of our Terms and Conditions, influencing how you use the Platform and our approach to data management. We encourage a thorough review of this document along with specific sections of the Terms and Conditions, especially those related to social media and legal considerations. Any modifications to this policy will be updated with the respective revision dates. Should you disagree with any changes, please contact us as indicated in the policy. Your continued usage of Fashion Palace's services signifies agreement with the current Privacy Policy. We prioritize your privacy, ensuring a secure environment and exclusive use of your information to improve your experience while respecting your privacy preferences.
+
+## Information Collection and Usage
+
+Our data collection varies based on your interaction with the Platform. Online transactions and communications are treated differently from simple website visits. For purchases or membership applications, we require certain personal details for account management and service provision. We also collect anonymous navigation data, including browser type, visit times, and accessed pages, to optimize the site. Cookies are used for personalized experiences and can be managed through your browser settings.
+
+### Children's Privacy
+
+We do not knowingly collect data from those under 13. Users between 13 and 17 should have guardian consent.
+
+### Data Sharing
+
+For operational purposes, we may share your data with third parties, like payment processors or marketing agencies, under strict confidentiality agreements.
+
+### Security Measures
+
+Fashion Palace employs robust measures to protect personal data, though transmission risks are inherent to the internet and are at your discretion.
+
+### Data Access and Corrections
+
+Members can manage their information via the "My Account" section.
+
+## Contact Details
+
+For privacy-related inquiries or data management requests, email us at haocheng969@gmail.com.
+
+---
+
 # Introduction
 
-This privacy policy describes the personal data that Fashion Palace receives and/or processes (which may include collecting, organizing, structuring, storing, using, or disclosing) when you interact with Fashion Palace or use Fashion Palace Consumer Services, as defined in the Consumer Terms of Service, including while shopping with a merchant that uses or is powered by Fashion Palace's platform (“Fashion Palace Merchants” or “Merchants”). Additionally, please review our overall privacy policy that applies to everyone whose information we process. If any provisions in this policy conflict with provisions of the overall privacy policy, the provisions in this policy will apply.
+This policy explains how Fashion Palace handles personal data in various interactions and services, as outlined in our Consumer Terms of Service. It complements our overall privacy policy, and in case of conflicts, the provisions of this specific policy will prevail.
 
-# What Personal Data We Receive
-The information we collect about you varies based on your interaction with our website. For example, if you engage in an online transaction or send us an email, the information we gather will be different from that collected during your general browsing of our site.
+## Types of Personal Data Collected
 
-**Purchasing Products or Services:**
+The data we collect depends on your website interactions. Different information is gathered during online transactions, emails, or general browsing.
 
-When you buy products or sign up for membership, we require specific details to set up an account and deliver the product or service to you. This includes your name and contact information necessary for the purchase or account creation. We use this information to process your order and manage your account effectively.
+### Purchasing Products or Services:
 
-**Navigation Information:**
+Required details for purchases or account creation include your name and contact information, used for order processing and account management.
 
-Each visit to our website generates anonymous navigation data, which our servers collect. This data includes:
+### Navigation Information:
 
-- The browser type and operating system you use.
-- The date and time of your visit.
-- The URLs of the pages you visit.
+We collect anonymous data during website visits, including browser type, visit date and time, and visited URLs, to analyze site usage patterns.
 
-This information helps us understand how visitors use and navigate our website, including the frequency and duration of visits, and the number of views per page.
+### Use of Cookies:
 
-**Use of Cookies:**
+Cookies are used to recognize your browser on subsequent visits and offer a personalized experience. You can control cookie use through your browser settings.
 
-Like many websites, we use cookies – small data files that our site sends to your browser, which are then stored on your hard drive. Cookies assist in recognizing your browser when you revisit our site and remember your previous requests. They help personalize your experience but do not contain personal information. If you prefer not to use cookies, you can usually disable them by adjusting your browser's security settings.
-# How We Use Your Personal Data
+## Personal Data Usage
 
-Fashion Palace uses Personal Data for the following purposes depending on how you interact with us or which Fashion Palace services you use and based on your activity across all devices where you log in to, or interact with, Fashion Palace or Fashion Palace services:
+Depending on your interactions with us or the Fashion Palace services you use, we employ Personal Data to:
 
-Provide, Improve, and Customize Fashion Palace Services: To provide customized Fashion Palace services to you, including by displaying your purchase history and order status in one place, providing easy payment options when you shop, recommending products, Merchants and Shop(s) and customizing the products featured for you, and to improve Fashion Palace services, including based on your use of Fashion Palace Consumer Services and activity with our Merchant(s).
+- Provide, improve, and customize our services.
+- Track and implement your privacy settings.
+- Conduct product research and development.
+- Communicate with you about services and updates.
+- Ensure account authentication, security, and safety.
+- Comply with legal requirements.
 
-Track and Implement Your Privacy Preferences and Settings: To track and implement your settings and privacy preferences with Fashion Palace and our Merchants.
+We also process aggregated, de-identified, or anonymous data for various purposes, including service improvement.
 
-Perform Product Research and Development: To develop, test, and improve Fashion Palace services, including troubleshooting our products and services, developing new or improved Fashion Palace services, and analyzing your use of and interactions with Fashion Palace services.
+## Processing Data on Behalf of Merchants
 
-Communicate with You: To communicate with you about Fashion Palace services, including about product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us.
+We process Personal Data from Merchants you interact with, acting on their behalf. The respective Merchant's terms and privacy policies apply in these instances.
 
-Authentication, Integrity, Security, and Safety: To authenticate your account, provide a secure payment and shopping experience, and to detect, investigate, and prevent malicious conduct, fraudulent activity or unsafe experiences, address security threats, protect public safety, and secure Fashion Palace Services for you and our Merchants.
+## Third Parties Receiving Personal Data
 
-Legal Reasons: To comply with applicable law or respond to valid legal process, including requests from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our terms or policies.
+The categories of third parties receiving data from us vary based on the services used, including vendors, potential business transaction participants, and for legal reasons.
 
-Fashion Palace may also aggregate, de-identify, and/or anonymize any information collected through the Fashion Palace services in such a way that we cannot reasonably link information to you or your device. We may use such aggregate, de-identified, or anonymous information for any purpose, including, for example, to improve the Fashion Palace service.
+## Third Party Partners & Integrations
 
-# How We Process Your Personal Data on Behalf of Fashion Palace Merchants
+Our services may link to third-party services not controlled by Fashion Palace. Your interactions with these services are governed by their privacy policies.
 
-Fashion Palace also processes your Personal Data from Merchants you interact or shop with in order to help Merchants run their Shop(s) and to provide business services to our Merchants. When Fashion Palace processes Personal Data in this way, we are acting at the direction of the Merchant, and the Merchants' terms of service and privacy policy apply—not Fashion Palace's. For more information about how Merchants collect and use personal information when you visit and make purchases in their Shop(s), review the Merchant's terms and privacy policy.
+## Your Privacy Rights and Choices
 
-In addition, some Merchants may instruct us to use Personal Data they share with us for targeted advertising for these and other Merchants using these services on third-party sites. You may have the ability to opt out of allowing a Merchant to share your information with us for these purposes directly on that Merchant's site, such as through the Global Privacy Control. We also offer you choices about how Fashion Palace uses personal information merchants share with us for ad services here.
+You may have rights to manage your Personal Data, accessible through our privacy portal. These include access, correction, deletion, and opt-out rights.
 
-# Third-Parties Who May Receive Personal Data
+## Retention
 
-Depending on which Fashion Palace services you use or interact with, Fashion Palace may provide Personal Data to the following categories of third parties:
+We retain Personal Data based on ongoing business needs, legal, tax, or accounting requirements, and for security purposes.
 
-Vendors: Fashion Palace works with third-party service providers to provide, support, and improve Fashion Palace services and technical infrastructure, for business services such as payment processing, including in relation to purchases made when you use Fashion Palace Services, and for marketing and business analytics.
+## Contact Us
 
+For rights exercises or privacy policy queries, visit our Privacy Portal or email haocheng969@gmail.com.
 
-Change of Control: We may share Personal Data with actual or prospective acquirers, their representatives and other relevant participants in, or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Fashion Palace's business or assets, including in connection with bankruptcy or similar proceedings.
+## Policy Changes
 
-Legal Reasons: We may share Personal Data as needed to: (1) comply with applicable law or respond to, investigate, or participate in valid legal process and proceedings, including from law enforcement or government agencies; (2) enforce or investigate potential violations of its Terms of Service or policies; (3) detect, prevent, or investigate potential fraud, abuse, or safety and security concerns, including threats to the public; (4) meet our corporate and social responsibility commitments; (5) protect our and our Merchants and users' rights and property; and (6) resolve disputes and enforce agreements.
-
-Sharing at Your Discretion: Where you provide consent, we share your information as described at the time of consent, such as when connecting with a third party application or website.
-
-# Third Party Partners & Integrations
-
-Parts of Fashion Palace services may link to third party services. Fashion Palace doesn't own or control these third parties. When you interact with these third parties and choose to use their services, your use is subject to the privacy policies of those providers.
-
-# Your Privacy Rights and Choices
-
-You may have certain rights to manage your Personal Data depending on where you live. To exercise any privacy rights available to you, please visit our privacy portal. Depending on your jurisdiction, the following rights may apply, subject to certain exceptions:
-
-Access and Portability: Right to request access to your Personal Data.
-
-Correction / Rectification: Right to correct inaccurate or incomplete Personal Data in certain circumstances.
-
-Deletion / Erasure: Right to delete Personal Data about you.
-
-Right to opt out of “sharing” for cross-context behavioral advertising or targeted advertising. Right to opt-out of the “sharing” of your Personal Data for cross context behavioral advertising or targeted advertising (as further described in the Third-Parties Who May Receive Personal Data section).
-
-You can also update your account information or request to deactivate or delete your account directly through your in-app settings. You may have additional rights available to you. Please see our overall privacy policy for more information.
-
-# Retention
-
-We retain Personal Data for as long as we have an ongoing business need to do so (e.g., to provide the Fashion Palace services, to comply with applicable legal, tax, or accounting requirements, for security and fraud detection or prevention, or in connection with backup or disaster recovery processes), unless a different retention period is permitted or required by applicable law.
-
-The criteria used to determine our retention periods include the following:
-
-The length of time we have an ongoing relationship with you and provide Fashion Palace services to you (for example, for as long as you have an account with us or keep using our services);
-
-Whether you modify or delete your information through your accounts;
-
-Whether Fashion Palace has a legal obligation to keep the data (for example, certain laws require Fashion Palace to keep records of your transactions for a certain period of time); or
-
-Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, the applicable statutes of limitations, litigation, or regulatory investigation).
-
-# How to Contact Us
-
-To exercise your rights, please visit our Privacy Portal. For questions or concerns related to this Privacy Policy, you may contact us. please reach out to haocheng969@gmail.com.
-
-# Changes to this Privacy Policy
-
-We may update this Privacy Policy periodically to account for changes in our collection and/or processing of Personal Data, and we will post the updated Privacy Policy on our website, with a “Last Updated” date at the top.
+We periodically update our Privacy Policy to reflect changes in data collection or processing practices. The latest version will be available on our website with a “Last Updated” date.
